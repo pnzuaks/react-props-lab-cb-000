@@ -1,1 +1,7 @@
-class Spaceship extends React.component
+class Spaceship extends React.component {
+  render() {
+    return (
+      
+    )
+  }
+}
