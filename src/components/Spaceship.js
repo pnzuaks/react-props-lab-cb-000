@@ -12,6 +12,7 @@ class Spaceship extends React.component {
     )
   }
 }
+
 Spaceship.defaultProps = {
   speed: 'slow',
   hasRockets: false,
